@@ -1,0 +1,1 @@
+{"version":3,"file":"main.763306608975e3f38cf7.bundle.js","sources":["webpack:///./src/components/Buttons/Buttons.js"],"sourcesContent":["import React from 'react'\n\nconst Buttons = (props) => (\n   <Buttons>{props.children}</Buttons>\n)\n\nexport default Buttons"],"mappings":"AAAA","sourceRoot":""}
