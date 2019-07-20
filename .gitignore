@@ -4,10 +4,13 @@
 node_modules/
 
 # testing
-/coverage
+coverage/
 
 # Build
-/build
+build/
+
+# Stories
+storybook-static/
 
 # misc
 .DS_Store
